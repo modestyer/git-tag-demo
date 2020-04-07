@@ -9,6 +9,6 @@ package com.example.demo.test;
 public class TestGitTag {
 
     public static void main(String[] args) {
-        System.out.println("master git tag........");
+        System.out.println("test git tag........");
     }
 }
